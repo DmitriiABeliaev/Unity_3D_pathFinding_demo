@@ -1,3 +1,3 @@
 # Unity_pathFinding
 
-Tried to implement various pathfinding algorithms.
+Implementing various pathfinding algorithms.
